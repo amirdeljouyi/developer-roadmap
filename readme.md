@@ -2,7 +2,7 @@
 
  this technologies which I learned or want learning to become a frontend, backend, data scientist. I  made this charts with inspired from [this](https://github.com/kamranahmedse/developer-roadmap) for a perspective to me.
 
-![](./split.png)
+![](./images/split.png)
 
 ## 🚀 Introduction
 
