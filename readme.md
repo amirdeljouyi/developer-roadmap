@@ -14,11 +14,11 @@
 
 ![](./images/Back-end.png)
 
-## 👷 Application Developer Roadmap
+## :iphone: :computer: Application Developer Roadmap
 
 ![](./images/Apps.png)
 
-## 👷 Data scientist Roadmap
+## :neckbeard: Data scientist Roadmap
 
 ![](./images/Data%20Science.png)
 
