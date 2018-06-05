@@ -20,7 +20,7 @@
 
 ## 👷 Data scientist Roadmap
 
-![](./images/Data Science.png)
+![](./images/Data%20Science.png)
 
 ## ☑ TODO
 
